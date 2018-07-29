@@ -40,6 +40,8 @@ FROM
 
 `Example Query.ipynb` - Shows example of how to query BQ from Pandas
 
+`Keras Classifier Model.ipynb` - Shows example of RNN model
+
 ## Scraper Instructions
 1. Ensure `BeautifulSoup` and `requests` libraries are installed
 2. Run `scraper.py`
